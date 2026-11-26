@@ -1,7 +1,7 @@
 
 # Build a Static File HTTP Server in C
 
-**Project Link:** [View Project](https://nextwork.ai/projects/ed6e4a2d-7530-4183-b263-7ff754088dac)
+<!-- **Project Link:** [View Project](https://nextwork.ai/projects/ed6e4a2d-7530-4183-b263-7ff754088dac) -->
 
 ---
 
